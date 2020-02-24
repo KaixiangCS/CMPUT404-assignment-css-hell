@@ -1,0 +1,65 @@
+/*https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_menu*/
+li {
+	float: left;
+	margin-right: 280px;
+	height: 30px;
+	padding: 1.5%;
+}
+li a {
+  color: white;
+}
+li a:hover {
+  background-color: red;
+}
+/* https://www.w3schools.com/css/css_font.asp*/
+p {
+	font-family:"Times New Roman", Times, serif;
+	font-size:1.25em;
+	padding: 1.5%;
+	line-height:150%;
+}
+h1 {
+	font-family:"Times New Roman", Times, serif;
+	padding: 1%;
+	font-size: 2em;
+}
+.top{
+	background: radial-gradient(PaleTurquoise,RoyalBlue);
+}
+.header{
+	height: 180px;
+	color: NavajoWhite;
+	text-align: center;
+}
+.name{
+	font-size: 6em;
+}
+.note{
+	font-size: 3em;
+	font-style: italic;
+}
+.navigation_bar{
+	background: linear-gradient(Black,Grey);
+	height: 60px;
+}
+/* https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow */
+.image1{
+	float: left;
+	margin: 1%;
+	box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, .2);
+}
+.image2{
+	float: right;
+	margin: 1%;
+	box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, .2);
+}
+.image3{
+	float: left;
+	margin: 1%;
+	box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, .2);
+}
+.image4{
+	float: right;
+	margin: 1%;
+	box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, .2);
+}

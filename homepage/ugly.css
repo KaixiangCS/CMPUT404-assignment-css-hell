@@ -1,0 +1,44 @@
+/*https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_menu*/
+body {
+  background-image: url("1.png");
+}
+li {
+	float: left;
+	margin-right: 287px;
+	height: 30px;
+	padding: 1.5%;
+}
+/* https://www.w3schools.com/css/css_font.asp*/
+p {
+	font-family:"Times New Roman", Times, serif;
+  color:purple;
+	font-size:1.25em;
+	line-height:150%;
+  }
+}
+h1 {
+	font-family:"Times New Roman", Times, serif;
+  color: white;
+	font-size: 2em;
+}
+
+.top{
+	background: yellow;
+}
+.header{
+	height: 180px;
+	color: NavajoWhite;
+	text-align: center;
+}
+.name{
+	font-size: 6em;
+}
+.note{
+	font-size: 3em;
+	font-style: italic;
+}
+.navigation_bar{
+	background: linear-gradient(Black,Grey);
+	height: 60px;
+}
+/* https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow */
