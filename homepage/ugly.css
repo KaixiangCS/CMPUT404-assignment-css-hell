@@ -41,4 +41,33 @@ h1 {
 	background: linear-gradient(Black,Grey);
 	height: 60px;
 }
+.side{
+	border: 10px solid white;
+  background-color: violet;
+	line-height:400%;
+	width:15%;
+	padding: 1%;
+	height: 100%;
+	float: right;
+}
+.Who_I_Am{
+	width:80%;
+	height: 100%;
+	float: left;
+}
+.Professional_History{
+	width:80%;
+	height: 100%;
+	float: left;
+}
+.What_Can_I_Do{
+	width:80%;
+	height: 100%;
+	float: left;
+}
+.Important_point{
+	width:80%;
+	height: 100%;
+	float: left;
+}
 /* https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow */
