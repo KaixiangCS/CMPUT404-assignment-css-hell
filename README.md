@@ -26,7 +26,7 @@ Code is licensed under the Apache 2.0 license.
 What modifications you had to make to the project gutenberg HTML files?
 ========================
 
-I added "<link rel="stylesheet" type="text/css" href="assets/change.css">" within the head tag.
+I added <link rel="stylesheet" type="text/css" href="assets/change.css"> within the head tag.
 
 Reference
 ========================
